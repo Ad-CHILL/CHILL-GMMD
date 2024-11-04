@@ -1,0 +1,7 @@
+- 👋 Hello, my name is @CHILL-GMMD
+- 👀 I am interested in learning how to code
+- 🌱 I am currently learning how to make bots in Discord
+- 💞️ I am looking for collaborators in Discord
+- 📫 How to contact me https://discord.gg/rVshyHmzNZ
+- 😄 Pronoun: CHILL
+- ⚡ Fun fact: I made the bot to serve in Discord only
